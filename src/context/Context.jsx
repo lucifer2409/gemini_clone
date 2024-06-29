@@ -44,7 +44,7 @@ const newChat = () => {
         newResponse += responseArray[i];
       }
       else{
-        newResponse += "<b>" + responseArray[i] + "</b>";
+        newResponse += "<br><b>" + responseArray[i] + "</b>";
       }
     }
     let newresponse2 = newResponse.split("*").join("</br>");
