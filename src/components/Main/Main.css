@@ -103,7 +103,7 @@
     font-weight: 300;
 }
 .result{
-    padding: 0px 5px;
+    padding: 70px;
     overflow-y: scroll;
 }
 .result::-webkit-scrollbar{
